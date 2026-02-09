@@ -1,0 +1,136 @@
+{
+  "audit_date": "2026-02-09",
+  "total_images": 31,
+  "unique_recipes": 16,
+  "duplicate_images": 15,
+  "recipes": [
+    {
+      "id": "breast_pepper_water",
+      "title": "Breast Pepper Water",
+      "type": "mixed",
+      "best_images": ["PHOTO-2026-02-09-07-48-59.jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-01 (1).jpg", "PHOTO-2026-02-09-07-49-07.jpg"],
+      "notes": "Typed recipe with extensive handwritten annotations (doubled quantities for drumstick/chicken variant, coconut powder note)"
+    },
+    {
+      "id": "johns_green_masala_curry",
+      "title": "John's Green Masala Curry",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-00.jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-03 (1).jpg"],
+      "notes": "Fully handwritten. Serevent notepad. Includes beans at the end."
+    },
+    {
+      "id": "dosais",
+      "title": "Dosais",
+      "type": "typed",
+      "best_images": ["PHOTO-2026-02-09-07-49-00 (1).jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-04 (3).jpg"],
+      "notes": "Top section of a page with 3 recipes. Short recipe."
+    },
+    {
+      "id": "brinjal_ladies_fingers",
+      "title": "Brinjal or Ladies Fingers Fried",
+      "type": "typed",
+      "best_images": ["PHOTO-2026-02-09-07-49-01 (2).jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-00 (1).jpg", "PHOTO-2026-02-09-07-49-04 (3).jpg"],
+      "notes": "Middle section of multi-recipe page. Clearest in the closeup image."
+    },
+    {
+      "id": "mixed_frozen_veg",
+      "title": "Mixed Frozen Vegetable",
+      "type": "typed",
+      "best_images": ["PHOTO-2026-02-09-07-49-01 (2).jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-00 (1).jpg", "PHOTO-2026-02-09-07-49-04 (3).jpg"],
+      "notes": "Bottom section of multi-recipe page."
+    },
+    {
+      "id": "fish_curry",
+      "title": "Fish Curry",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-01.jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-05.jpg", "PHOTO-2026-02-09-07-49-08.jpg"],
+      "notes": "Handwritten. Different angle shots of same page. Title at top, ingredients then method."
+    },
+    {
+      "id": "pepper_water_typed",
+      "title": "Pepper Water",
+      "type": "mixed",
+      "best_images": ["PHOTO-2026-02-09-07-49-02.jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-03 (2).jpg", "PHOTO-2026-02-09-07-49-05 (1).jpg", "PHOTO-2026-02-09-07-49-07 (3).jpg"],
+      "notes": "Typed with handwritten annotations (Mix with Water, Then Boil, Cups). 4 near-identical shots."
+    },
+    {
+      "id": "chicken_curry_handwritten",
+      "title": "Chicken Curry (Handwritten)",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-03.jpg"],
+      "duplicate_images": [],
+      "notes": "Detailed handwritten recipe. Drumsticks or Breast. Full ingredients and method on one page."
+    },
+    {
+      "id": "ball_curry",
+      "title": "Ball Curry",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-03 (3).jpg", "PHOTO-2026-02-09-07-49-02 (1).jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-02 (2).jpg"],
+      "notes": "2-page handwritten recipe. Page 1: curry base with mince. Page 2: making the meatballs and finishing."
+    },
+    {
+      "id": "chicken_curry_typed",
+      "title": "Chicken Curry (Typed)",
+      "type": "typed",
+      "best_images": ["PHOTO-2026-02-09-07-49-04.jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-04 (2).jpg", "PHOTO-2026-02-09-07-49-07 (2).jpg"],
+      "notes": "Short typed recipe. 'Make in the usual way.'"
+    },
+    {
+      "id": "coconut_fish_prawn_curry",
+      "title": "Cocunut Fish or Prawn Curry",
+      "type": "typed",
+      "best_images": ["PHOTO-2026-02-09-07-49-05 (2).jpg"],
+      "duplicate_images": ["PHOTO-2026-02-09-07-49-06 (1).jpg", "PHOTO-2026-02-09-07-49-06 (3).jpg"],
+      "notes": "Typed. Clean and clear. 3 near-identical shots."
+    },
+    {
+      "id": "aubergine_brinjal_fry",
+      "title": "Aubergine / Brinjal Fry",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-06.jpg"],
+      "duplicate_images": [],
+      "notes": "Handwritten. Also notes it can be done with ladies fingers (okra)."
+    },
+    {
+      "id": "green_masala_bryani",
+      "title": "My Green Masala Bryani",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-06 (2).jpg", "PHOTO-2026-02-09-07-49-00 (2).jpg", "PHOTO-2026-02-09-07-49-04 (1).jpg"],
+      "duplicate_images": [],
+      "notes": "3-page handwritten recipe. Page 1: green masala paste + start of curry. Page 2: cooking chicken, adding spices, rice. Page 3: Bryani assembly with ghee/layering, oven instructions."
+    },
+    {
+      "id": "prawn_balchow",
+      "title": "Prawn Balchow",
+      "type": "typed",
+      "best_images": ["PHOTO-2026-02-09-07-49-07 (1).jpg"],
+      "duplicate_images": [],
+      "notes": "Typed. Detailed recipe with 100 dried prawns. Long method section."
+    },
+    {
+      "id": "pepper_water_handwritten",
+      "title": "Pepper Water (Handwritten)",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-08 (1).jpg"],
+      "duplicate_images": [],
+      "notes": "Handwritten version of Pepper Water. Uses ball tamarind instead of paste. Different proportions."
+    },
+    {
+      "id": "johns_3_bean_curry",
+      "title": "John's 3 Bean Curry",
+      "type": "handwritten",
+      "best_images": ["PHOTO-2026-02-09-07-49-04 (1).jpg"],
+      "duplicate_images": [],
+      "notes": "Short variant recipe at bottom of Bryani page 3. Halve the Bryani quantities, add 3 types of beans."
+    }
+  ]
+}
